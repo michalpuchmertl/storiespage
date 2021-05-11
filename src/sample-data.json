@@ -15,6 +15,8 @@
         "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
       },
 
+      "rating": 32,
+
       "commentsCount": 123
     },
     {
@@ -32,12 +34,14 @@
         "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
       },
 
+      "rating": 89,
+
       "commentsCount": 14
     },
     {
-      "id": 2,
-      "title": "Title 2",
-      "url": "/story/2",
+      "id": 3,
+      "title": "Title 3",
+      "url": "/story/3",
 
       "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
 
@@ -48,6 +52,8 @@
         "userType": "verified-user",
         "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
       },
+
+      "rating": 99,
 
       "commentsCount": 14
     },
@@ -66,6 +72,8 @@
         "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
       },
 
+      "rating": 1,
+
       "commentsCount": 0
     },
     {
@@ -82,6 +90,8 @@
         "userType": "common-user",
         "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
       },
+
+      "rating": 74,
 
       "commentsCount": 14001
     }
