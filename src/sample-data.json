@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Title 1",
+      "url": "/story/1",
+
+      "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
+
+      "user": {
+        "id": 1001,
+        "name": "Tester",
+        "url": "/user/1001",
+        "userType": "common-user",
+        "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+      },
+
+      "commentsCount": 123
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "url": "/story/2",
+
+      "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
+
+      "user": {
+        "id": 1002,
+        "name": "Tester",
+        "url": "/user/1002",
+        "userType": "verified-user",
+        "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+      },
+
+      "commentsCount": 14
+    },
+    {
+      "id": 2,
+      "title": "Title 2",
+      "url": "/story/2",
+
+      "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
+
+      "user": {
+        "id": 1002,
+        "name": "Tester2",
+        "url": "/user/1002",
+        "userType": "verified-user",
+        "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+      },
+
+      "commentsCount": 14
+    },
+    {
+      "id": 3,
+      "title": "Title 3",
+      "url": "/story/3",
+
+      "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
+
+      "user": {
+        "id": 1003,
+        "name": "Tester3",
+        "url": "/user/1003",
+        "userType": "verified-user",
+        "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+      },
+
+      "commentsCount": 0
+    },
+    {
+      "id": 4,
+      "title": "Title 4",
+      "url": "/story/4",
+
+      "previewContent": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pretium lacinia magna non convallis. Curabitur id justo sit amet turpis hendrerit venenatis ut ac mauris. Etiam euismod est tellus, venenatis fringilla ante semper vel.",
+
+      "user": {
+        "id": 1004,
+        "name": "Tester4",
+        "url": "/user/1004",
+        "userType": "common-user",
+        "avatar": "https://i.pinimg.com/originals/51/f6/fb/51f6fb256629fc755b8870c801092942.png"
+      },
+
+      "commentsCount": 14001
+    }
+  ]
+}

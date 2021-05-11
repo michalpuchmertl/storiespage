@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import './styles.scss';
+import data from './sample-data.json';
 
 function App() {
   return (
